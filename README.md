@@ -1,5 +1,5 @@
 Car_Sales_Dataset_Analysis
-Car Sales Data Exploration and Analysis with SQL (SQL SERVER)
+Car Sales Data Exploration and Analysis with SQL.
 
 Car dealerships generate a huge amount of transactional data every day — which region sold what, to whom, at what price — but most of it never gets turned into a decision. The idea of analysing the Car_Sales dataset is to figure out where a dealership network should actually put its inventory and marketing dollars, instead of guessing. The dataset consists of 23,906 rows with columns such as Car_id, Dealer_Region, Company, Body_Style, Annual_Income, Price and many more...
 
